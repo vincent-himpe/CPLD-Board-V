@@ -1,0 +1,405 @@
+Altium Designer Pick and Place Locations
+C:\GitHub\AVR64DA64-Breakout\CAD\.\Production\Pick Place for AVR64DA64-BREAKOUT(AVR64DA64-BREAKOUT-JLCPCB).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/09/25
+Time:       10:08
+Revision:   Not in VersionControl
+Variant:    AVR64DA64-BREAKOUT-JLCPCB
+Units used: mil
+
+Designator Comment                      Layer    Footprint                    Center-X(mil) Center-Y(mil) Rotation Description                                                            
+R47        RESC0603                     TopLayer RESC0603                     1456.693      -2178.150     0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                   
+R45        RESC0603                     TopLayer RESC0603                     1305.118      -14.764       90       "RESISTOR,1K,1%,100mW,0603 (1608)"                                     
+R44        RESC0603                     TopLayer RESC0603                     1524.606      193.898       0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R43        RESC0603                     TopLayer RESC0603                     1311.024      194.882       0        "RESISTOR,1K,1%,100mW,0603 (1608)"                                     
+Q1         AO3401                       TopLayer SOT23                        1647.638      61.024        270      XSTR,PMOS,30V,4A,AO3401,SOT23                                          
+L1         10uH                         TopLayer CAPC0603                     1507.874      -104.331      90       "IND,4u7H,0.6A,0603, LLQM18PN4R7MFRL"                                  
+D14        BAV99                        TopLayer SOT23                        1647.638      -95.472       90       "DIODE,75V,215mA,SOT23,LOW LEAKAGE"                                    
+C40        CAP0603                      TopLayer CAPC0603                     1630.906      193.898       180      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C39        CAP0603                      TopLayer CAPC0603                     1378.937      -156.496      180      CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C38        CAP0603                      TopLayer CAPC0603                     1507.874      -210.630      270      CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C37        CAP0603                      TopLayer CAPC0603                     1416.339      69.882        180      CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C36        CAP0603                      TopLayer CAPC0603                     1416.339      131.890       180      CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C35        CAP0603                      TopLayer CAPC0603                     1755.906      1271.653      90       CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C34        CAP0603                      TopLayer CAPC0603                     2316.929      1276.575      90       CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C32        CAP0603                      TopLayer CAPC0603                     1844.488      -3427.165     180      CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C30        CAP0603                      TopLayer CAPC0603                     1844.488      -3545.276     180      CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C31        CAP0603                      TopLayer CAPC0603                     1844.488      -3486.220     180      CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C33        CAP0603                      TopLayer CAPC0603                     4150.591      534.449       270      CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+R42        RESC0603                     TopLayer RESC0603                     1210.000      -2550.000     0        "RESISTOR,1K,1%,100mW,0603 (1608)"                                     
+C29        CAP0603                      TopLayer CAPC0603                     1570.000      -3060.000     270      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C28        CAP0603                      TopLayer CAPC0603                     1075.000      -3060.000     90       CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C27        CAP0603                      TopLayer CAPC0603                     1295.000      -2550.000     270      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C26        CAP0603                      TopLayer CAPC0603                     1125.000      -2550.000     90       CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+R41        RESC0603                     TopLayer RESC0603                     2165.000      -3565.000     90       "RESISTOR,470R,1%,100mW,0603 (1608)"                                   
+R40        RESC0603                     TopLayer RESC0603                     2695.000      644.213       180      "RESISTOR,470R,1%,100mW,0603 (1608)"                                   
+R39        RESC0603                     TopLayer RESC0603                     2585.000      644.213       0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                   
+D3         BAV99                        TopLayer sot23                        1374.882      -443.740      90       "DIODE,75V,215mA,SOT23,LOW LEAKAGE"                                    
+D2         B5819L                       TopLayer SOD123                       1521.653      43.307        270      DIODE,SCHOTTKY,40V,1,B5819,SOD123                                      
+D1         BAV99                        TopLayer sot23                        2145.000      -3240.000     180      "DIODE,75V,215mA,SOT23,LOW LEAKAGE"                                    
+U8         PCAL9555                     TopLayer SO65P640X120-24N             1630.153      -3935.000     270      "I2C,16BIT AGILE I/O EXPANDER,INT,NEXPERIA,PCAL95555,TSSOP24"          
+U1         IC-ATMEL-AV64DA64-QFP64      TopLayer QFP50P1000X1000X100-64N      1630.153      -1565.000     315      IC,CPU,ATMEL,AVR64DA64,TQFP64                                          
+SW18_PCAL1 SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          2992.988      -4112.638     0        SWITCH,DIP,NOX8,SMD,2.54                                               
+SW18_PCAL0 SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          300.153       -4095.000     180      SWITCH,DIP,NOX8,SMD,2.54                                               
+SW17_PCAL1 SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          3942.988      -4112.638     0        SWITCH,DIP,NOX8,SMD,2.54                                               
+SW17_PCAL0 SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          -649.847      -4095.000     180      SWITCH,DIP,NOX8,SMD,2.54                                               
+SW16_PCAL1 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4317.988      -4637.638     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW16_PCAL0 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.847     -3570.000     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW15_PCAL1 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4317.988      -3587.638     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW15_PCAL0 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.847     -4620.000     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW14_PCAL1 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4317.988      -4487.638     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW14_PCAL0 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.847     -3720.000     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW13_PCAL1 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4317.988      -3737.638     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW13_PCAL0 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.847     -4470.000     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW12_PCAL1 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4317.988      -4337.638     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW12_PCAL0 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.847     -3870.000     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW11_PCAL1 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4317.988      -3887.638     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW11_PCAL0 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.847     -4320.000     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW10_PCAL1 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4317.988      -4187.638     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW10_PCAL0 SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.847     -4020.000     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW9_PCAL1  SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4317.988      -4037.638     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW9_PCAL0  SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.847     -4170.000     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+R37_PCAL1  RESC0603                     TopLayer RESC0603                     2667.985      -4562.641     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R37_PCAL0  RESC0603                     TopLayer RESC0603                     625.156       -3644.997     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R36_PCAL1  RESC0603                     TopLayer RESC0603                     2670.150      -4412.641     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R36_PCAL0  RESC0603                     TopLayer RESC0603                     622.991       -3794.997     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R35_PCAL1  RESC0603                     TopLayer RESC0603                     2672.315      -4262.641     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R35_PCAL0  RESC0603                     TopLayer RESC0603                     620.826       -3944.997     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R34_PCAL1  RESC0603                     TopLayer RESC0603                     2670.150      -4112.641     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R34_PCAL0  RESC0603                     TopLayer RESC0603                     622.991       -4094.997     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R33_PCAL1  RESC0603                     TopLayer RESC0603                     2667.985      -3962.641     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R33_PCAL0  RESC0603                     TopLayer RESC0603                     625.157       -4244.997     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R32_PCAL1  RESC0603                     TopLayer RESC0603                     2670.150      -3812.641     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R32_PCAL0  RESC0603                     TopLayer RESC0603                     622.991       -4394.997     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R31_PCAL1  RESC0603                     TopLayer RESC0603                     2670.150      -3662.641     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R31_PCAL0  RESC0603                     TopLayer RESC0603                     622.991       -4544.997     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R30_PCAL1  RESC0603                     TopLayer RESC0603                     2670.150      -3512.641     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R30_PCAL0  RESC0603                     TopLayer RESC0603                     622.991       -4694.997     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R29_PCAL1  RESC0603                     TopLayer RESC0603                     4117.988      -4587.638     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R29_PCAL0  RESC0603                     TopLayer RESC0603                     -824.847      -3620.000     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R28_PCAL1  RESC0603                     TopLayer RESC0603                     4117.988      -4662.638     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R28_PCAL0  RESC0603                     TopLayer RESC0603                     -824.847      -3545.000     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R27_PCAL1  RESC0603                     TopLayer RESC0603                     3767.988      -4662.638     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R27_PCAL0  RESC0603                     TopLayer RESC0603                     -474.847      -3545.000     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R26_PCAL1  RESC0603                     TopLayer RESC0603                     3767.988      -4587.638     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R26_PCAL0  RESC0603                     TopLayer RESC0603                     -474.847      -3620.000     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R25_PCAL1  RESC0603                     TopLayer RESC0603                     3767.988      -3637.638     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R25_PCAL0  RESC0603                     TopLayer RESC0603                     -474.847      -4570.000     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R24_PCAL1  RESC0603                     TopLayer RESC0603                     3767.988      -3562.638     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R24_PCAL0  RESC0603                     TopLayer RESC0603                     -474.847      -4645.000     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R23_PCAL1  RESC0603                     TopLayer RESC0603                     4117.988      -3562.638     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R23_PCAL0  RESC0603                     TopLayer RESC0603                     -824.847      -4645.000     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R22_PCAL1  RESC0603                     TopLayer RESC0603                     4117.988      -3637.638     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R22_PCAL0  RESC0603                     TopLayer RESC0603                     -824.847      -4570.000     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+D13_PCAL1  KT-0603W                     TopLayer LED-0603-GREEN               2667.988      -4637.638     0        LED,SMD,WHITE,42mCd,0603                                               
+D13_PCAL0  KT-0603W                     TopLayer LED-0603-GREEN               625.153       -3570.000     180      LED,SMD,WHITE,42mCd,0603                                               
+D12_PCAL1  KT-0603W                     TopLayer LED-0603-GREEN               2670.153      -4487.638     0        LED,SMD,WHITE,42mCd,0603                                               
+D12_PCAL0  KT-0603W                     TopLayer LED-0603-GREEN               622.988       -3720.000     180      LED,SMD,WHITE,42mCd,0603                                               
+D11_PCAL1  KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -4337.638     0        LED,SMD,WHITE,42mCd,0603                                               
+D11_PCAL0  KT-0603W                     TopLayer LED-0603-GREEN               620.823       -3870.000     180      LED,SMD,WHITE,42mCd,0603                                               
+D10_PCAL1  KT-0603W                     TopLayer LED-0603-GREEN               2670.153      -4187.638     0        LED,SMD,WHITE,42mCd,0603                                               
+D10_PCAL0  KT-0603W                     TopLayer LED-0603-GREEN               622.988       -4020.000     180      LED,SMD,WHITE,42mCd,0603                                               
+D9_PCAL1   KT-0603W                     TopLayer LED-0603-GREEN               2667.988      -4037.638     0        LED,SMD,WHITE,42mCd,0603                                               
+D9_PCAL0   KT-0603W                     TopLayer LED-0603-GREEN               625.153       -4170.000     180      LED,SMD,WHITE,42mCd,0603                                               
+D8_PCAL1   KT-0603W                     TopLayer LED-0603-GREEN               2670.153      -3887.638     0        LED,SMD,WHITE,42mCd,0603                                               
+D8_PCAL0   KT-0603W                     TopLayer LED-0603-GREEN               622.988       -4320.000     180      LED,SMD,WHITE,42mCd,0603                                               
+D7_PCAL1   KT-0603W                     TopLayer LED-0603-GREEN               2670.153      -3737.638     0        LED,SMD,WHITE,42mCd,0603                                               
+D7_PCAL0   KT-0603W                     TopLayer LED-0603-GREEN               622.988       -4470.000     180      LED,SMD,WHITE,42mCd,0603                                               
+D6_PCAL1   KT-0603W                     TopLayer LED-0603-GREEN               2670.153      -3587.638     0        LED,SMD,WHITE,42mCd,0603                                               
+D6_PCAL0   KT-0603W                     TopLayer LED-0603-GREEN               622.988       -4620.000     180      LED,SMD,WHITE,42mCd,0603                                               
+SW18_PORTG SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          2995.153      -375.000      0        SWITCH,DIP,NOX8,SMD,2.54                                               
+SW18_PORTF SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          2995.153      -1620.000     0        SWITCH,DIP,NOX8,SMD,2.54                                               
+SW18_PORTE SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          2995.153      -2865.000     0        SWITCH,DIP,NOX8,SMD,2.54                                               
+SW18_PORTD SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          300.626       -2839.527     180      SWITCH,DIP,NOX8,SMD,2.54                                               
+SW18_PORTC SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          300.779       -1594.527     180      SWITCH,DIP,NOX8,SMD,2.54                                               
+SW18_PORTB SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          300.626       -349.527      180      SWITCH,DIP,NOX8,SMD,2.54                                               
+SW18_PORTA SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          300.626       895.473       180      SWITCH,DIP,NOX8,SMD,2.54                                               
+SW17_PORTG SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          3945.153      -375.000      0        SWITCH,DIP,NOX8,SMD,2.54                                               
+SW17_PORTF SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          3945.153      -1620.000     0        SWITCH,DIP,NOX8,SMD,2.54                                               
+SW17_PORTE SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          3945.153      -2865.000     0        SWITCH,DIP,NOX8,SMD,2.54                                               
+SW17_PORTD SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          -649.374      -2839.527     180      SWITCH,DIP,NOX8,SMD,2.54                                               
+SW17_PORTC SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          -649.221      -1594.527     180      SWITCH,DIP,NOX8,SMD,2.54                                               
+SW17_PORTB SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          -649.374      -349.527      180      SWITCH,DIP,NOX8,SMD,2.54                                               
+SW17_PORTA SWITCH-DIP-NOX8-SMT-2.54     TopLayer SWITCH-CTS-219-8MST          -649.374      895.473       180      SWITCH,DIP,NOX8,SMD,2.54                                               
+U7         IC-TI-SN74LVC2G14            TopLayer SOT23-6                      2660.000      450.000       270      "IC,LOGIC,SINGLEGATE,DUAL SCHMITT-TRIGER,INVERTER,SOT23-6"             
+U6         74V1G3157                    TopLayer SOT23-6                      1514.882      -443.740      90       "IC,ANALOG,SPDT ANALOG SWITCH,SINGLEGATE,TI,SN74LVC1G3157DBVR,SOT23-6" 
+U5         74V1G3157                    TopLayer SOT23-6                      1234.882      -443.740      90       "IC,ANALOG,SPDT ANALOG SWITCH,SINGLEGATE,TI,SN74LVC1G3157DBVR,SOT23-6" 
+U4         CP2102                       TopLayer SO127P600-16N                1410.000      825.000       270      "IC,XCVR,USB UART WITH XTAL AND EEPROM,WCH,CH340G-SO16"                
+U3         MT3608                       TopLayer SOT23-6                      1405.512      -43.307       270      IC,REG,BOOST,AEROSEMI,MT3608                                           
+U2         IC-TI-SN74LVC2G14            TopLayer SOT23-6                      2045.000      -3500.000     0        "IC,LOGIC,SINGLEGATE,DUAL SCHMITT-TRIGER,INVERTER,SOT23-6"             
+SW16_PORTG SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -900.000      0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW16_PORTF SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -2145.000     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW16_PORTE SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -3390.000     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW16_PORTD SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -2314.527     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW16_PORTC SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.221     -1069.527     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW16_PORTB SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     175.473       180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW16_PORTA SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     1420.473      180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW15_PORTG SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      150.000       180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW15_PORTF SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -1095.000     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW15_PORTE SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -2340.000     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW15_PORTD SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -3364.527     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW15_PORTC SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.221     -2119.527     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW15_PORTB SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -874.527      0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW15_PORTA SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     370.473       0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW14_PORTG SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -750.000      0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW14_PORTF SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -1995.000     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW14_PORTE SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -3240.000     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW14_PORTD SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -2464.527     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW14_PORTC SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.221     -1219.527     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW14_PORTB SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     25.473        180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW14_PORTA SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     1270.473      180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW13_PORTG SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      0.000         180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW13_PORTF SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -1245.000     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW13_PORTE SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -2490.000     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW13_PORTD SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -3214.527     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW13_PORTC SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.221     -1969.527     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW13_PORTB SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -724.527      0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW13_PORTA SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     520.473       0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW12_PORTG SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -600.000      0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW12_PORTF SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -1845.000     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW12_PORTE SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -3090.000     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW12_PORTD SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -2614.527     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW12_PORTC SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.221     -1369.527     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW12_PORTB SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -124.527      180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW12_PORTA SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     1120.473      180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW11_PORTG SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -150.000      180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW11_PORTF SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -1395.000     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW11_PORTE SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -2640.000     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW11_PORTD SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -3064.527     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW11_PORTC SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.221     -1819.527     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW11_PORTB SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -574.527      0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW11_PORTA SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     670.473       0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW10_PORTG SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -450.000      0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW10_PORTF SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -1695.000     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW10_PORTE SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -2940.000     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW10_PORTD SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -2764.527     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW10_PORTC SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.221     -1519.527     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW10_PORTB SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -274.527      180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW10_PORTA SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     970.473       180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW9_PORTG  SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -300.000      180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW9_PORTF  SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -1545.000     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW9_PORTE  SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 4320.153      -2790.000     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW9_PORTD  SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -2914.527     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW9_PORTC  SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.221     -1669.527     0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW9_PORTB  SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     -424.527      0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW9_PORTA  SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 -1024.374     820.473       0        "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+SW6        SWITCH-XUNPU-TS-1088-AR02016 TopLayer SWITCH-XUNPU-TS-1088-AR02016 2159.449      -1845.472     180      "SWITCH,TACT,SMD,2PIN,SMT,TOP ACTUATOR"                                
+R37_PORTG  RESC0603                     TopLayer RESC0603                     2670.150      -825.003      0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R37_PORTF  RESC0603                     TopLayer RESC0603                     2670.150      -2070.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R37_PORTE  RESC0603                     TopLayer RESC0603                     2670.150      -3315.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R37_PORTD  RESC0603                     TopLayer RESC0603                     625.629       -2389.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R37_PORTC  RESC0603                     TopLayer RESC0603                     625.783       -1144.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R37_PORTB  RESC0603                     TopLayer RESC0603                     625.629       100.476       180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R37_PORTA  RESC0603                     TopLayer RESC0603                     625.630       1345.476      180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R36_PORTG  RESC0603                     TopLayer RESC0603                     2672.315      -675.003      0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R36_PORTF  RESC0603                     TopLayer RESC0603                     2672.315      -1920.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R36_PORTE  RESC0603                     TopLayer RESC0603                     2672.315      -3165.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R36_PORTD  RESC0603                     TopLayer RESC0603                     623.464       -2539.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R36_PORTC  RESC0603                     TopLayer RESC0603                     623.617       -1294.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R36_PORTB  RESC0603                     TopLayer RESC0603                     623.464       -49.524       180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R36_PORTA  RESC0603                     TopLayer RESC0603                     623.464       1195.476      180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R35_PORTG  RESC0603                     TopLayer RESC0603                     2674.481      -525.003      0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R35_PORTF  RESC0603                     TopLayer RESC0603                     2674.481      -1770.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R35_PORTE  RESC0603                     TopLayer RESC0603                     2674.481      -3015.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R35_PORTD  RESC0603                     TopLayer RESC0603                     621.299       -2689.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R35_PORTC  RESC0603                     TopLayer RESC0603                     621.452       -1444.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R35_PORTB  RESC0603                     TopLayer RESC0603                     621.299       -199.524      180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R35_PORTA  RESC0603                     TopLayer RESC0603                     621.299       1045.476      180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R34_PORTG  RESC0603                     TopLayer RESC0603                     2672.315      -375.003      0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R34_PORTF  RESC0603                     TopLayer RESC0603                     2672.315      -1620.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R34_PORTE  RESC0603                     TopLayer RESC0603                     2672.315      -2865.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R34_PORTD  RESC0603                     TopLayer RESC0603                     623.464       -2839.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R34_PORTC  RESC0603                     TopLayer RESC0603                     623.617       -1594.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R34_PORTB  RESC0603                     TopLayer RESC0603                     623.464       -349.524      180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R34_PORTA  RESC0603                     TopLayer RESC0603                     623.464       895.476       180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R33_PORTG  RESC0603                     TopLayer RESC0603                     2670.150      -225.003      0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R33_PORTF  RESC0603                     TopLayer RESC0603                     2670.150      -1470.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R33_PORTE  RESC0603                     TopLayer RESC0603                     2670.150      -2715.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R33_PORTD  RESC0603                     TopLayer RESC0603                     625.629       -2989.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R33_PORTC  RESC0603                     TopLayer RESC0603                     625.783       -1744.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R33_PORTB  RESC0603                     TopLayer RESC0603                     625.629       -499.524      180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R33_PORTA  RESC0603                     TopLayer RESC0603                     625.629       745.476       180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R32_PORTG  RESC0603                     TopLayer RESC0603                     2672.315      -75.003       0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R32_PORTF  RESC0603                     TopLayer RESC0603                     2672.315      -1320.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R32_PORTE  RESC0603                     TopLayer RESC0603                     2672.315      -2565.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R32_PORTD  RESC0603                     TopLayer RESC0603                     623.464       -3139.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R32_PORTC  RESC0603                     TopLayer RESC0603                     623.617       -1894.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R32_PORTB  RESC0603                     TopLayer RESC0603                     623.464       -649.524      180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R32_PORTA  RESC0603                     TopLayer RESC0603                     623.464       595.476       180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R31_PORTG  RESC0603                     TopLayer RESC0603                     2672.315      74.997        0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R31_PORTF  RESC0603                     TopLayer RESC0603                     2672.315      -1170.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R31_PORTE  RESC0603                     TopLayer RESC0603                     2672.315      -2415.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R31_PORTD  RESC0603                     TopLayer RESC0603                     623.464       -3289.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R31_PORTC  RESC0603                     TopLayer RESC0603                     623.617       -2044.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R31_PORTB  RESC0603                     TopLayer RESC0603                     623.464       -799.524      180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R31_PORTA  RESC0603                     TopLayer RESC0603                     623.464       445.476       180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R30_PORTG  RESC0603                     TopLayer RESC0603                     2672.315      224.997       0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R30_PORTF  RESC0603                     TopLayer RESC0603                     2672.315      -1020.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R30_PORTE  RESC0603                     TopLayer RESC0603                     2672.315      -2265.003     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R30_PORTD  RESC0603                     TopLayer RESC0603                     623.464       -3439.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R30_PORTC  RESC0603                     TopLayer RESC0603                     623.617       -2194.524     180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R30_PORTB  RESC0603                     TopLayer RESC0603                     623.464       -949.524      180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R30_PORTA  RESC0603                     TopLayer RESC0603                     623.464       295.476       180      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R29_PORTG  RESC0603                     TopLayer RESC0603                     4120.153      -850.000      180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R29_PORTF  RESC0603                     TopLayer RESC0603                     4120.153      -2095.000     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R29_PORTE  RESC0603                     TopLayer RESC0603                     4120.153      -3340.000     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R29_PORTD  RESC0603                     TopLayer RESC0603                     -824.374      -2364.527     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R29_PORTC  RESC0603                     TopLayer RESC0603                     -824.221      -1119.527     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R29_PORTB  RESC0603                     TopLayer RESC0603                     -824.374      125.473       0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R29_PORTA  RESC0603                     TopLayer RESC0603                     -824.374      1370.473      0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R28_PORTG  RESC0603                     TopLayer RESC0603                     4120.153      -925.000      180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R28_PORTF  RESC0603                     TopLayer RESC0603                     4120.153      -2170.000     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R28_PORTE  RESC0603                     TopLayer RESC0603                     4120.153      -3415.000     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R28_PORTD  RESC0603                     TopLayer RESC0603                     -824.374      -2289.527     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R28_PORTC  RESC0603                     TopLayer RESC0603                     -824.221      -1044.527     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R28_PORTB  RESC0603                     TopLayer RESC0603                     -824.374      200.473       0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R28_PORTA  RESC0603                     TopLayer RESC0603                     -824.374      1445.473      0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R27_PORTG  RESC0603                     TopLayer RESC0603                     3770.153      -925.000      0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R27_PORTF  RESC0603                     TopLayer RESC0603                     3770.153      -2170.000     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R27_PORTE  RESC0603                     TopLayer RESC0603                     3770.153      -3415.000     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R27_PORTD  RESC0603                     TopLayer RESC0603                     -474.374      -2289.527     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R27_PORTC  RESC0603                     TopLayer RESC0603                     -474.221      -1044.527     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R27_PORTB  RESC0603                     TopLayer RESC0603                     -474.374      200.473       180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R27_PORTA  RESC0603                     TopLayer RESC0603                     -474.374      1445.473      180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R26_PORTG  RESC0603                     TopLayer RESC0603                     3770.153      -850.000      0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R26_PORTF  RESC0603                     TopLayer RESC0603                     3770.153      -2095.000     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R26_PORTE  RESC0603                     TopLayer RESC0603                     3770.153      -3340.000     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R26_PORTD  RESC0603                     TopLayer RESC0603                     -474.374      -2364.527     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R26_PORTC  RESC0603                     TopLayer RESC0603                     -474.221      -1119.527     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R26_PORTB  RESC0603                     TopLayer RESC0603                     -474.374      125.473       180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R26_PORTA  RESC0603                     TopLayer RESC0603                     -474.374      1370.473      180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R25_PORTG  RESC0603                     TopLayer RESC0603                     3770.153      100.000       0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R25_PORTF  RESC0603                     TopLayer RESC0603                     3770.153      -1145.000     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R25_PORTE  RESC0603                     TopLayer RESC0603                     3770.153      -2390.000     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R25_PORTD  RESC0603                     TopLayer RESC0603                     -474.374      -3314.527     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R25_PORTC  RESC0603                     TopLayer RESC0603                     -474.221      -2069.527     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R25_PORTB  RESC0603                     TopLayer RESC0603                     -474.374      -824.527      180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R25_PORTA  RESC0603                     TopLayer RESC0603                     -474.374      420.473       180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R24_PORTG  RESC0603                     TopLayer RESC0603                     3770.153      175.000       0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R24_PORTF  RESC0603                     TopLayer RESC0603                     3770.153      -1070.000     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R24_PORTE  RESC0603                     TopLayer RESC0603                     3770.153      -2315.000     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R24_PORTD  RESC0603                     TopLayer RESC0603                     -474.374      -3389.527     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R24_PORTC  RESC0603                     TopLayer RESC0603                     -474.221      -2144.527     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R24_PORTB  RESC0603                     TopLayer RESC0603                     -474.374      -899.527      180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R24_PORTA  RESC0603                     TopLayer RESC0603                     -474.374      345.473       180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R23_PORTG  RESC0603                     TopLayer RESC0603                     4120.153      175.000       180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R23_PORTF  RESC0603                     TopLayer RESC0603                     4120.153      -1070.000     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R23_PORTE  RESC0603                     TopLayer RESC0603                     4120.153      -2315.000     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R23_PORTD  RESC0603                     TopLayer RESC0603                     -824.374      -3389.527     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R23_PORTC  RESC0603                     TopLayer RESC0603                     -824.221      -2144.527     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R23_PORTB  RESC0603                     TopLayer RESC0603                     -824.374      -899.527      0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R23_PORTA  RESC0603                     TopLayer RESC0603                     -824.374      345.473       0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R22_PORTG  RESC0603                     TopLayer RESC0603                     4120.153      100.000       180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R22_PORTF  RESC0603                     TopLayer RESC0603                     4120.153      -1145.000     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R22_PORTE  RESC0603                     TopLayer RESC0603                     4120.153      -2390.000     180      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R22_PORTD  RESC0603                     TopLayer RESC0603                     -824.374      -3314.527     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R22_PORTC  RESC0603                     TopLayer RESC0603                     -824.221      -2069.527     0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R22_PORTB  RESC0603                     TopLayer RESC0603                     -824.374      -824.527      0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R22_PORTA  RESC0603                     TopLayer RESC0603                     -824.374      420.473       0        "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R21        RESC0603                     TopLayer RESC0603                     4180.000      1495.000      0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                   
+R20        RESC0603                     TopLayer RESC0603                     4180.000      1425.000      0        "RESISTOR,470R,1%,100mW,0603 (1608)"                                   
+R19        RESC0603                     TopLayer RESC0603                     4690.000      730.000       270      "RESISTOR,470R,1%,100mW,0603 (1608)"                                   
+R18        RESC0603                     TopLayer RESC0603                     4690.000      615.000       90       "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R17        RESC0603                     TopLayer RESC0603                     1187.992      -232.284      270      "RESISTOR,10K,1%,100mW,0603 (1608)"                                    
+R16        RESC0603                     TopLayer RESC0603                     1548.934      -640.748      270      "RESISTOR,470R,1%,100mW,0603 (1608)"                                   
+R15        RESC0603                     TopLayer RESC0603                     1416.339      193.898       180      "RESISTOR,18K,1%,100mW,0603 (1608)"                                    
+R14        RESC0603                     TopLayer RESC0603                     1680.118      744.095       0        "RESISTOR,1K,1%,100mW,0603 (1608)"                                     
+R13        RESC0603                     TopLayer RESC0603                     1478.934      -640.748      270      "RESISTOR,1K,1%,100mW,0603 (1608)"                                     
+R12        RESC0603                     TopLayer RESC0603                     1289.724      -630.905      270      "RESISTOR,470R,1%,100mW,0603 (1608)"                                   
+R11        RESC0603                     TopLayer RESC0603                     1160.000      920.000       90       "RESISTOR,1K,1%,100mW,0603 (1608)"                                     
+R10        RESC0603                     TopLayer RESC0603                     2083.662      -1709.646     90       "RESISTOR,470R,1%,100mW,0603 (1608)"                                   
+R9         RESC0603                     TopLayer RESC0603                     2785.000      609.213       90       "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R8         RESC0603                     TopLayer RESC0603                     2555.000      479.213       90       "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R7         RESC0603                     TopLayer RESC0603                     2765.000      479.213       90       "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R6         RESC0603                     TopLayer RESC0603                     1685.000      -4530.000     270      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R5         RESC0603                     TopLayer RESC0603                     1620.000      -4530.000     270      "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R4         RESC0603                     TopLayer RESC0603                     1276.811      -3250.276     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R3         RESC0603                     TopLayer RESC0603                     1276.811      -3310.276     0        "RESISTOR,4K7,1%,100mW,0603 (1608)"                                    
+R2         RESC0603                     TopLayer RESC0603                     1945.000      -3370.000     270      "RESISTOR,1K,1%,100mW,0603 (1608)"                                     
+R1         RESC0603                     TopLayer RESC0603                     2145.000      -3370.000     270      "RESISTOR,1K,1%,100mW,0603 (1608)"                                     
+D13_PORTG  KT-0603W                     TopLayer LED-0603-GREEN               2670.153      -900.000      0        LED,SMD,WHITE,42mCd,0603                                               
+D13_PORTF  KT-0603W                     TopLayer LED-0603-GREEN               2670.153      -2145.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D13_PORTE  KT-0603W                     TopLayer LED-0603-GREEN               2670.153      -3390.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D13_PORTD  KT-0603W                     TopLayer LED-0603-GREEN               625.626       -2314.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D13_PORTC  KT-0603W                     TopLayer LED-0603-GREEN               625.779       -1069.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D13_PORTB  KT-0603W                     TopLayer LED-0603-GREEN               625.626       175.473       180      LED,SMD,WHITE,42mCd,0603                                               
+D13_PORTA  KT-0603W                     TopLayer LED-0603-GREEN               625.626       1420.473      180      LED,SMD,WHITE,42mCd,0603                                               
+D12_PORTG  KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -750.000      0        LED,SMD,WHITE,42mCd,0603                                               
+D12_PORTF  KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -1995.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D12_PORTE  KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -3240.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D12_PORTD  KT-0603W                     TopLayer LED-0603-GREEN               623.461       -2464.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D12_PORTC  KT-0603W                     TopLayer LED-0603-GREEN               623.614       -1219.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D12_PORTB  KT-0603W                     TopLayer LED-0603-GREEN               623.461       25.473        180      LED,SMD,WHITE,42mCd,0603                                               
+D12_PORTA  KT-0603W                     TopLayer LED-0603-GREEN               623.461       1270.473      180      LED,SMD,WHITE,42mCd,0603                                               
+D11_PORTG  KT-0603W                     TopLayer LED-0603-GREEN               2674.484      -600.000      0        LED,SMD,WHITE,42mCd,0603                                               
+D11_PORTF  KT-0603W                     TopLayer LED-0603-GREEN               2674.484      -1845.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D11_PORTE  KT-0603W                     TopLayer LED-0603-GREEN               2674.484      -3090.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D11_PORTD  KT-0603W                     TopLayer LED-0603-GREEN               621.295       -2614.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D11_PORTC  KT-0603W                     TopLayer LED-0603-GREEN               621.449       -1369.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D11_PORTB  KT-0603W                     TopLayer LED-0603-GREEN               621.295       -124.527      180      LED,SMD,WHITE,42mCd,0603                                               
+D11_PORTA  KT-0603W                     TopLayer LED-0603-GREEN               621.296       1120.473      180      LED,SMD,WHITE,42mCd,0603                                               
+D10_PORTG  KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -450.000      0        LED,SMD,WHITE,42mCd,0603                                               
+D10_PORTF  KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -1695.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D10_PORTE  KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -2940.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D10_PORTD  KT-0603W                     TopLayer LED-0603-GREEN               623.461       -2764.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D10_PORTC  KT-0603W                     TopLayer LED-0603-GREEN               623.614       -1519.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D10_PORTB  KT-0603W                     TopLayer LED-0603-GREEN               623.461       -274.527      180      LED,SMD,WHITE,42mCd,0603                                               
+D10_PORTA  KT-0603W                     TopLayer LED-0603-GREEN               623.461       970.473       180      LED,SMD,WHITE,42mCd,0603                                               
+D9_PORTG   KT-0603W                     TopLayer LED-0603-GREEN               2670.153      -300.000      0        LED,SMD,WHITE,42mCd,0603                                               
+D9_PORTF   KT-0603W                     TopLayer LED-0603-GREEN               2670.153      -1545.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D9_PORTE   KT-0603W                     TopLayer LED-0603-GREEN               2670.153      -2790.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D9_PORTD   KT-0603W                     TopLayer LED-0603-GREEN               625.626       -2914.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D9_PORTC   KT-0603W                     TopLayer LED-0603-GREEN               625.779       -1669.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D9_PORTB   KT-0603W                     TopLayer LED-0603-GREEN               625.626       -424.527      180      LED,SMD,WHITE,42mCd,0603                                               
+D9_PORTA   KT-0603W                     TopLayer LED-0603-GREEN               625.626       820.473       180      LED,SMD,WHITE,42mCd,0603                                               
+D8_PORTG   KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -150.000      0        LED,SMD,WHITE,42mCd,0603                                               
+D8_PORTF   KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -1395.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D8_PORTE   KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -2640.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D8_PORTD   KT-0603W                     TopLayer LED-0603-GREEN               623.461       -3064.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D8_PORTC   KT-0603W                     TopLayer LED-0603-GREEN               623.614       -1819.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D8_PORTB   KT-0603W                     TopLayer LED-0603-GREEN               623.461       -574.527      180      LED,SMD,WHITE,42mCd,0603                                               
+D8_PORTA   KT-0603W                     TopLayer LED-0603-GREEN               623.461       670.473       180      LED,SMD,WHITE,42mCd,0603                                               
+D7_PORTG   KT-0603W                     TopLayer LED-0603-GREEN               2672.319      0.000         0        LED,SMD,WHITE,42mCd,0603                                               
+D7_PORTF   KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -1245.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D7_PORTE   KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -2490.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D7_PORTD   KT-0603W                     TopLayer LED-0603-GREEN               623.461       -3214.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D7_PORTC   KT-0603W                     TopLayer LED-0603-GREEN               623.614       -1969.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D7_PORTB   KT-0603W                     TopLayer LED-0603-GREEN               623.461       -724.527      180      LED,SMD,WHITE,42mCd,0603                                               
+D7_PORTA   KT-0603W                     TopLayer LED-0603-GREEN               623.461       520.473       180      LED,SMD,WHITE,42mCd,0603                                               
+D6_PORTG   KT-0603W                     TopLayer LED-0603-GREEN               2672.319      150.000       0        LED,SMD,WHITE,42mCd,0603                                               
+D6_PORTF   KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -1095.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D6_PORTE   KT-0603W                     TopLayer LED-0603-GREEN               2672.319      -2340.000     0        LED,SMD,WHITE,42mCd,0603                                               
+D6_PORTD   KT-0603W                     TopLayer LED-0603-GREEN               623.461       -3364.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D6_PORTC   KT-0603W                     TopLayer LED-0603-GREEN               623.614       -2119.527     180      LED,SMD,WHITE,42mCd,0603                                               
+D6_PORTB   KT-0603W                     TopLayer LED-0603-GREEN               623.461       -874.527      180      LED,SMD,WHITE,42mCd,0603                                               
+D6_PORTA   KT-0603W                     TopLayer LED-0603-GREEN               623.461       370.473       180      LED,SMD,WHITE,42mCd,0603                                               
+D5         KT-0603W                     TopLayer LED-0603-GREEN               1679.997      824.997       180      LED,SMD,WHITE,42mCd,0603                                               
+D4         PESD2USB5                    TopLayer SOT23                        1430.000      1100.000      0        DIODE,TVS,DUAL,NIDIRETIONAL,USB,PESD2USB5UX-TR,SOT23                   
+C25        CAP0603                      TopLayer CAPC0603                     1340.000      -3980.000     90       CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C24        CAP0603                      TopLayer CAPC0603                     1839.842      -4075.000     270      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C23        CAP0603                      TopLayer CAPC0603                     1905.000      -4075.000     270      CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C22        CAP0603                      TopLayer CAPC0603                     1530.000      -3195.000     270      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C21        CAP0603                      TopLayer CAPC0603                     1189.961      -3223.425     90       CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C20        CAP0603                      TopLayer CAPC0603                     4180.000      1290.000      180      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C19        CAP0603                      TopLayer CAPC0603                     4180.000      1355.000      180      CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C18        CAP0603                      TopLayer CAPC0603                     1540.000      1080.000      90       CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C17        CAP0603                      TopLayer CAPC0603                     1554.724      -308.740      90       CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C16        CAP0603                      TopLayer CAPC0603                     1679.134      679.134       0        CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C15        CAP0603                      TopLayer CAPC0603                     2144.843      -1709.724     90       CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C14        CAP0603                      TopLayer CAPC0603                     1273.622      -308.071      90       CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C13        CAP0603                      TopLayer CAPC0603                     1378.937      -219.488      180      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C12        CAP0603                      TopLayer CAPC0603                     1685.000      -1930.000     225      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C11        CAP0603                      TopLayer CAPC0603                     1730.000      -1975.000     225      CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C10        CAP0603                      TopLayer CAPC0603                     2045.000      -3603.853     180      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C9         CAP0603                      TopLayer CAPC0603                     1680.000      925.000       180      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C8         CAP0603                      TopLayer CAPC0603                     2530.000      390.000       180      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C7         CAP0603                      TopLayer CAPC0603                     2530.000      325.000       180      CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C6         CAP0603                      TopLayer CAPC0603                     1300.000      -1760.000     225      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C5         CAP0603                      TopLayer CAPC0603                     1405.000      -1270.000     135      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C4         CAP0603                      TopLayer CAPC0603                     1915.000      -1295.000     45       CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     
+C3         CAP0603                      TopLayer CAPC0603                     2695.000      574.213       180      CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C2         CAP0603                      TopLayer CAPC0603                     2585.000      574.213       0        CAPACITOR,CERAMIC,100nF,50V,X7R,0603                                   
+C1         CAP0603                      TopLayer CAPC0603                     2045.000      -3370.000     90       CAPACITOR,CERAMIC,4u7,16V,X5R,0603                                     

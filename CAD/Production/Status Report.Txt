@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [AVR64DA64-BREAKOUT-JLCPCB] of Project [AVR64DA64-BREAKOUT.PrjPcb]
+   Generated File[Bill of Materials-AVR64DA64-BREAKOUT(AVR64DA64-BREAKOUT-JLCPCB).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:08:01 AM On 9/20/2025

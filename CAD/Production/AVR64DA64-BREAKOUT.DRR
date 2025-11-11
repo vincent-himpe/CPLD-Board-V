@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: AVR64DA64-BREAKOUT.PcbDoc   9/20/2025  10:07:53 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : AVR64DA64-BREAKOUT-RoundHoles.TXT
+ASCII SlotHoles File : AVR64DA64-BREAKOUT-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Round             177       PTH        1598.64mm (62.94inch)
+T2      0.92mm (36mil)                                            Round             4         PTH        6.50mm (0.26inch)
+T3      1mm (39mil)                                               Round             405       PTH        1837.33mm (72.34inch)
+T4      1mm (39mil)                                               Slot              3         PTH        29.18mm (1.15inch)
+T5      1.1mm (43mil)                                             Round             3         PTH        5.00mm (0.20inch)
+T6      2.3mm (91mil)                                             Round             2         PTH        12.04mm (0.47inch)
+T7      2.6mm (102mil)                                            Round             2         PTH        11.60mm (0.46inch)
+T8      2.3mm (91mil)                                             Round             2         NPTH       9.60mm (0.38inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              598
+
+Total Processing Time (hh:mm:ss) : 00:00:00
