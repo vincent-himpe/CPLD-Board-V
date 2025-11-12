@@ -51,7 +51,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=CPLD-V INFORMATION.SchDoc
+DocumentPath=CPLD-V.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -65,9 +65,26 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EMEWTZKP
+DocumentUniqueId=RGHTWKKQ
 
 [Document2]
+DocumentPath=CPLD-V INFORMATION.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EMEWTZKP
+
+[Document3]
 DocumentPath=CPLD-V MAIN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -84,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZNRUQLIY
 
-[Document3]
+[Document4]
 DocumentPath=CPLD-V-HEADERBANK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,23 +117,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQZCCTWW
-
-[Document4]
-DocumentPath=CPLD-V.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RGHTWKKQ
 
 [Document5]
 DocumentPath=CPLD-V Assembly Drawing.PCBDwf
@@ -170,7 +170,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IRIWHSPG
 
 [Document8]
-DocumentPath=AVR64DA64-BREAKOUT.OutJob
+DocumentPath=CPLD-V.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -241,8 +241,8 @@ Variation26=Designator=J11|UniqueId=\QAYLPZUK\ETCSGQSK|Kind=1|AlternatePart=
 Variation27=Designator=J12|UniqueId=\QAYLPZUK\LMZAVOTV|Kind=1|AlternatePart=
 Variation28=Designator=DISP1|UniqueId=\LCXZDPAJ|Kind=1|AlternatePart=
 Variation29=Designator=J7|UniqueId=\XAVFCAPL|Kind=1|AlternatePart=
-Variation30=Designator=J8|UniqueId=\AYGRKRLL|Kind=1|AlternatePart=
-Variation31=Designator=J4|UniqueId=\UELAKNGT|Kind=1|AlternatePart=
+Variation30=Designator=J8|UniqueId=\AYGRKRLL|Kind=0|AlternatePart=
+Variation31=Designator=J4|UniqueId=\UELAKNGT|Kind=0|AlternatePart=
 Variation32=Designator=J2|UniqueId=\LLCUZMQY|Kind=1|AlternatePart=
 Variation33=Designator=J3|UniqueId=\KLFQQVZG|Kind=1|AlternatePart=
 Variation34=Designator=J15|UniqueId=\YJHCPYKD|Kind=1|AlternatePart=
