@@ -15,10 +15,10 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=CPLD-V.OutJob
 Description=
 TargetOutputMedium=PDF
-VariantName=AVR64DA64-BREAKOUT-JLCPCB
+VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Virtual Printer
