@@ -44,7 +44,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=AVR64DA64-BREAKOUT-JLCPCB
 
 [Preferences]
 PrefsVaultGUID=
@@ -205,53 +204,41 @@ DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueId=355d0d6b-5deb-4333-bd22-747e4d0fdba7
-Description=AVR64DA64-BREAKOUT-JLCPCB
+Description=NOTH
 OverwriteSchematicSymbol=0
 OverwritePCBFootprint=0
 AllowFabrication=1
 ParameterCount=0
-VariationCount=36
+VariationCount=20
 AllowVariationPastMask=1
-Variation1=Designator=U11|UniqueId=\QAYLPZUK\HMFPCYVR|Kind=1|AlternatePart=
-Variation2=Designator=U9|UniqueId=\QAYLPZUK\UYHGYIKD|Kind=1|AlternatePart=
-Variation3=Designator=U10|UniqueId=\QAYLPZUK\DCSCZTJB|Kind=1|AlternatePart=
-Variation4=Designator=SW1|UniqueId=\VGYDCEMF|Kind=1|AlternatePart=
-Variation5=Designator=R38|UniqueId=\EHXMVRQZ|Kind=1|AlternatePart=
-Variation6=Designator=U12|UniqueId=\ZSJNSHUX|Kind=1|AlternatePart=
-Variation7=Designator=R46|UniqueId=\KRNANWQI|Kind=1|AlternatePart=
-Variation8=Designator=J6_PCAL0|UniqueId=\QAYLPZUK\DEBQWGGU\JCRSQDOB|Kind=1|AlternatePart=
-Variation9=Designator=J5_PCAL0|UniqueId=\QAYLPZUK\DEBQWGGU\PWXRSSLC|Kind=1|AlternatePart=
-Variation10=Designator=J6_PCAL1|UniqueId=\QAYLPZUK\VLEMZZLA\JCRSQDOB|Kind=1|AlternatePart=
-Variation11=Designator=J5_PCAL1|UniqueId=\QAYLPZUK\VLEMZZLA\PWXRSSLC|Kind=1|AlternatePart=
-Variation12=Designator=J6_PORTA|UniqueId=\HLQRZIAF\JCRSQDOB|Kind=1|AlternatePart=
-Variation13=Designator=J5_PORTA|UniqueId=\HLQRZIAF\PWXRSSLC|Kind=1|AlternatePart=
-Variation14=Designator=J6_PORTB|UniqueId=\BSCATDED\JCRSQDOB|Kind=1|AlternatePart=
-Variation15=Designator=J5_PORTB|UniqueId=\BSCATDED\PWXRSSLC|Kind=1|AlternatePart=
-Variation16=Designator=J6_PORTC|UniqueId=\KFCXAIMC\JCRSQDOB|Kind=1|AlternatePart=
-Variation17=Designator=J5_PORTC|UniqueId=\KFCXAIMC\PWXRSSLC|Kind=1|AlternatePart=
-Variation18=Designator=J6_PORTD|UniqueId=\JNNQXFMM\JCRSQDOB|Kind=1|AlternatePart=
-Variation19=Designator=J5_PORTD|UniqueId=\JNNQXFMM\PWXRSSLC|Kind=1|AlternatePart=
-Variation20=Designator=J6_PORTE|UniqueId=\ZQXQWFSU\JCRSQDOB|Kind=1|AlternatePart=
-Variation21=Designator=J5_PORTE|UniqueId=\ZQXQWFSU\PWXRSSLC|Kind=1|AlternatePart=
-Variation22=Designator=J6_PORTF|UniqueId=\UAAOZLKX\JCRSQDOB|Kind=1|AlternatePart=
-Variation23=Designator=J5_PORTF|UniqueId=\UAAOZLKX\PWXRSSLC|Kind=1|AlternatePart=
-Variation24=Designator=J6_PORTG|UniqueId=\NIDBSXEZ\JCRSQDOB|Kind=1|AlternatePart=
-Variation25=Designator=J5_PORTG|UniqueId=\NIDBSXEZ\PWXRSSLC|Kind=1|AlternatePart=
-Variation26=Designator=J11|UniqueId=\QAYLPZUK\ETCSGQSK|Kind=1|AlternatePart=
-Variation27=Designator=J12|UniqueId=\QAYLPZUK\LMZAVOTV|Kind=1|AlternatePart=
-Variation28=Designator=DISP1|UniqueId=\LCXZDPAJ|Kind=1|AlternatePart=
-Variation29=Designator=J7|UniqueId=\XAVFCAPL|Kind=1|AlternatePart=
-Variation30=Designator=J8|UniqueId=\AYGRKRLL|Kind=0|AlternatePart=
-Variation31=Designator=J4|UniqueId=\UELAKNGT|Kind=0|AlternatePart=
-Variation32=Designator=J2|UniqueId=\LLCUZMQY|Kind=1|AlternatePart=
-Variation33=Designator=J3|UniqueId=\KLFQQVZG|Kind=1|AlternatePart=
-Variation34=Designator=J15|UniqueId=\YJHCPYKD|Kind=1|AlternatePart=
-Variation35=Designator=J1|UniqueId=\OYJOGBTH|Kind=1|AlternatePart=
-Variation36=Designator=J14|UniqueId=\DNVDOAMH|Kind=1|AlternatePart=
+Variation1=Designator=SW10|UniqueId=\KOOGJDXQ|Kind=1|AlternatePart=
+Variation2=Designator=SW9|UniqueId=\VASVBULT|Kind=1|AlternatePart=
+Variation3=Designator=SW11|UniqueId=\NBGRZRDW|Kind=1|AlternatePart=
+Variation4=Designator=J6_U_CPLD-V-HEADERBANK1|UniqueId=\PGINJOIW\JCRSQDOB|Kind=1|AlternatePart=
+Variation5=Designator=J5_U_CPLD-V-HEADERBANK1|UniqueId=\PGINJOIW\PWXRSSLC|Kind=1|AlternatePart=
+Variation6=Designator=J4|UniqueId=\UELAKNGT|Kind=1|AlternatePart=
+Variation7=Designator=J3|UniqueId=\TCRDPEVQ|Kind=1|AlternatePart=
+Variation8=Designator=J8|UniqueId=\AYGRKRLL|Kind=1|AlternatePart=
+Variation9=Designator=J2|UniqueId=\NNFJQWTC|Kind=1|AlternatePart=
+Variation10=Designator=J5_U_CPLD-V-HEADERBANK2|UniqueId=\EDHNKLJK\PWXRSSLC|Kind=1|AlternatePart=
+Variation11=Designator=J5_U_CPLD-V-HEADERBANK3|UniqueId=\LBKQGCWN\PWXRSSLC|Kind=1|AlternatePart=
+Variation12=Designator=J5_U_CPLD-V-HEADERBANK4|UniqueId=\GDLVNWOS\PWXRSSLC|Kind=1|AlternatePart=
+Variation13=Designator=J5_U_CPLD-V-HEADERBANK5|UniqueId=\LMHYHMIZ\PWXRSSLC|Kind=1|AlternatePart=
+Variation14=Designator=J5_U_CPLD-V-HEADERBANK6|UniqueId=\IAPMAPPU\PWXRSSLC|Kind=1|AlternatePart=
+Variation15=Designator=J6_U_CPLD-V-HEADERBANK2|UniqueId=\EDHNKLJK\JCRSQDOB|Kind=1|AlternatePart=
+Variation16=Designator=J6_U_CPLD-V-HEADERBANK3|UniqueId=\LBKQGCWN\JCRSQDOB|Kind=1|AlternatePart=
+Variation17=Designator=J6_U_CPLD-V-HEADERBANK4|UniqueId=\GDLVNWOS\JCRSQDOB|Kind=1|AlternatePart=
+Variation18=Designator=J6_U_CPLD-V-HEADERBANK5|UniqueId=\LMHYHMIZ\JCRSQDOB|Kind=1|AlternatePart=
+Variation19=Designator=J6_U_CPLD-V-HEADERBANK6|UniqueId=\IAPMAPPU\JCRSQDOB|Kind=1|AlternatePart=
+Variation20=Designator=J1|UniqueId=\LTTGUMVY|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for AVR64DA64-BREAKOUT\Design Rule Check - AVR64DA64-BREAKOUT.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for CPLD-V\Design Rule Check - CPLD-V.html
 DItemRevisionGUID=
 
 [Parameter1]
