@@ -209,7 +209,7 @@ OverwriteSchematicSymbol=0
 OverwritePCBFootprint=0
 AllowFabrication=1
 ParameterCount=0
-VariationCount=20
+VariationCount=19
 AllowVariationPastMask=1
 Variation1=Designator=SW10|UniqueId=\KOOGJDXQ|Kind=1|AlternatePart=
 Variation2=Designator=SW9|UniqueId=\VASVBULT|Kind=1|AlternatePart=
@@ -230,7 +230,6 @@ Variation16=Designator=J6_U_CPLD-V-HEADERBANK3|UniqueId=\LBKQGCWN\JCRSQDOB|Kind=
 Variation17=Designator=J6_U_CPLD-V-HEADERBANK4|UniqueId=\GDLVNWOS\JCRSQDOB|Kind=1|AlternatePart=
 Variation18=Designator=J6_U_CPLD-V-HEADERBANK5|UniqueId=\LMHYHMIZ\JCRSQDOB|Kind=1|AlternatePart=
 Variation19=Designator=J6_U_CPLD-V-HEADERBANK6|UniqueId=\IAPMAPPU\JCRSQDOB|Kind=1|AlternatePart=
-Variation20=Designator=J1|UniqueId=\LTTGUMVY|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -736,6 +735,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
